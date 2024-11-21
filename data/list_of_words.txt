@@ -1,3 +1,5 @@
-1. Algorithm (n) (Category - General IT Terms)
-2. Application (n) (Category - General IT Terms)
-3. Backup (n) (Category - General IT Terms)
+Bandwidth (n) (Category - Network Terms)
+Encryption (n) (Category - Security Terms)
+Firewall (n) (Category - Security Terms)
+Gateway (n) (Category - Network Terms)
+Database (n) (Category - General IT Terms)
