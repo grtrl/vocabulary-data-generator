@@ -1,0 +1,53 @@
+[
+  {
+    "word": "Algorithm",
+    "seq": 1,
+    "transcription": "ˈælɡəˌrɪðəm",
+    "description": "A set of rules or steps for solving a problem or completing a task, especially in computing.",
+    "partOfSpeech": "Noun",
+    "category": "General IT Terms",
+    "translation_es": "Algoritmo",
+    "translation_ru": "Алгоритм",
+    "translation_de": "Algorithmus",
+    "translation_it": "Algoritmo",
+    "translation_fr": "Algorithme",
+    "synonyms": "Procedure, Formula, Method",
+    "phrases": "Sorting algorithm is efficient, The algorithm improves performance, Implementing the algorithm correctly",
+    "sentence": "An **algorithm** is crucial for data processing; an effective **algorithm** can transform how datasets are analyzed, leading to better insights and decisions that can significantly enhance business outcomes.",
+    "dialog": "Person 1: Have you finished the report on the new **algorithm** for our project?; Person 2: Yes, I explained how the **algorithm** works, and I highlighted its efficiency in processing data."
+  },
+  {
+    "word": "Application",
+    "seq": 2,
+    "transcription": "/ˌæp.lɪˈkeɪ.ʃən/",
+    "description": "A software program designed to perform specific tasks on a device.",
+    "partOfSpeech": "noun",
+    "category": "General IT Terms",
+    "translation_es": "Aplicación",
+    "translation_ru": "Приложение",
+    "translation_de": "Anwendung",
+    "translation_it": "Applicazione",
+    "translation_fr": "Application",
+    "synonyms": "App, Program, Software",
+    "phrases": "mobile application, job application process, application programming interface",
+    "sentence": "The **application** on my smartphone allows me to track my daily activities more efficiently. It's amazing how this **application** integrates with other tools to provide me with a comprehensive view of my fitness progress.",
+    "dialog": "Did you download the new **application** for managing your finances?; Yes, I did! This **application** is really user-friendly and helps me budget effectively.; I've been looking for an effective **application** to enhance productivity.; I recommend trying that one, it even has a feature to track your projects' deadlines!"
+  },
+  {
+    "word": "Backup",
+    "seq": 3,
+    "transcription": "/ˈbækˌʌp/",
+    "description": "A copy of data or files made to prevent loss in case of failure or damage.",
+    "partOfSpeech": "noun",
+    "category": "General IT Terms",
+    "translation_es": "Copia de seguridad",
+    "translation_ru": "Резервная копия",
+    "translation_de": "Sicherungskopie",
+    "translation_it": "Backup",
+    "translation_fr": "Sauvegarde",
+    "synonyms": "copy, reserve, safeguard",
+    "phrases": "Create a backup, Backup your data regularly, Restore from backup",
+    "sentence": "In the realm of information technology, having a reliable **backup** is crucial for data integrity; if a system crashes, a good **backup** can ensure that no critical information is lost, minimizing downtime and preserving essential files for future access.",
+    "dialog": "I heard you had a major data loss the other day. Did you have a **backup**?; Yes, luckily I managed to create a **backup** just before the system crashed, which saved a lot of important information. You should really consider making regular **backups** too!; Absolutely! I've learned my lesson; without a **backup**, I would have struggled to recover the lost data."
+  }
+]
