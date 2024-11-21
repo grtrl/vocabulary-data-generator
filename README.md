@@ -36,7 +36,7 @@ A Python application that processes a list of words and generates detailed vocab
 
 3. Create a .env file in the root directory with your OpenAI API key:
    ```bash
-  OPENAI_API_KEY=your_openai_api_key
+   OPENAI_API_KEY=your_openai_api_key
 
 5. Add your list of words to data/list_of_words.txt, one word per line.
 
@@ -47,7 +47,7 @@ A Python application that processes a list of words and generates detailed vocab
    ```bash
    python main.py
 
-### Output
+### Data
  * Input File: data/list_of_words.txt
  * Output File: data/vocabulary_data.json
 
