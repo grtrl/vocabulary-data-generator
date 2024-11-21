@@ -2,9 +2,9 @@
   {
     "word": "Algorithm",
     "seq": 1,
-    "transcription": "ˈælɡəˌrɪðəm",
-    "description": "A set of rules or steps for solving a problem or completing a task, especially in computing.",
-    "partOfSpeech": "Noun",
+    "transcription": "/ˈælɡərɪðəm/",
+    "description": "A set of rules or procedures for solving a problem or performing a task.",
+    "partOfSpeech": "noun",
     "category": "General IT Terms",
     "translation_es": "Algoritmo",
     "translation_ru": "Алгоритм",
@@ -12,15 +12,15 @@
     "translation_it": "Algoritmo",
     "translation_fr": "Algorithme",
     "synonyms": "Procedure, Formula, Method",
-    "phrases": "Sorting algorithm is efficient, The algorithm improves performance, Implementing the algorithm correctly",
-    "sentence": "An **algorithm** is crucial for data processing; an effective **algorithm** can transform how datasets are analyzed, leading to better insights and decisions that can significantly enhance business outcomes.",
-    "dialog": "Person 1: Have you finished the report on the new **algorithm** for our project?; Person 2: Yes, I explained how the **algorithm** works, and I highlighted its efficiency in processing data."
+    "phrases": "Sorting algorithms are essential in computer science, An algorithm can optimize search processes, Implementing an algorithm requires understanding its logic.",
+    "sentence": "In the world of technology, an **algorithm** acts as a crucial framework that dictates how data is processed or operations are performed. Without a well-defined **algorithm**, many software applications would not function efficiently, as it provides the necessary steps to achieve a desired outcome.",
+    "dialog": "Did you know that an **algorithm** can greatly improve the performance of your software?; I’ve heard that using a more efficient **algorithm** can reduce processing time significantly!; Yes, choosing the right **algorithm** depends on the specific problem you're trying to solve.; Exactly! A solid understanding of your goals is essential for designing an effective **algorithm**."
   },
   {
     "word": "Application",
     "seq": 2,
-    "transcription": "/ˌæp.lɪˈkeɪ.ʃən/",
-    "description": "A software program designed to perform specific tasks on a device.",
+    "transcription": "/ˌæplɪˈkeɪʃən/",
+    "description": "A program designed to perform specific tasks or functions on a computer.",
     "partOfSpeech": "noun",
     "category": "General IT Terms",
     "translation_es": "Aplicación",
@@ -28,16 +28,16 @@
     "translation_de": "Anwendung",
     "translation_it": "Applicazione",
     "translation_fr": "Application",
-    "synonyms": "App, Program, Software",
-    "phrases": "mobile application, job application process, application programming interface",
-    "sentence": "The **application** on my smartphone allows me to track my daily activities more efficiently. It's amazing how this **application** integrates with other tools to provide me with a comprehensive view of my fitness progress.",
-    "dialog": "Did you download the new **application** for managing your finances?; Yes, I did! This **application** is really user-friendly and helps me budget effectively.; I've been looking for an effective **application** to enhance productivity.; I recommend trying that one, it even has a feature to track your projects' deadlines!"
+    "synonyms": "Software, Program, Tool",
+    "phrases": "Mobile application, Web application, Desktop application",
+    "sentence": "The software development team is excited to launch a new **application** that improves productivity. This **application** offers unique features that streamline workflows and enhance user experience across all devices.",
+    "dialog": "I just downloaded a new **application** for productivity tracking; it has so many useful features!; Oh really? I’ve been looking for an **application** that integrates with my calendar and to-do list."
   },
   {
     "word": "Backup",
     "seq": 3,
     "transcription": "/ˈbækˌʌp/",
-    "description": "A copy of data or files made to prevent loss in case of failure or damage.",
+    "description": "A backup is a copy of data stored separately for recovery during data loss.",
     "partOfSpeech": "noun",
     "category": "General IT Terms",
     "translation_es": "Copia de seguridad",
@@ -45,9 +45,9 @@
     "translation_de": "Sicherungskopie",
     "translation_it": "Backup",
     "translation_fr": "Sauvegarde",
-    "synonyms": "copy, reserve, safeguard",
-    "phrases": "Create a backup, Backup your data regularly, Restore from backup",
-    "sentence": "In the realm of information technology, having a reliable **backup** is crucial for data integrity; if a system crashes, a good **backup** can ensure that no critical information is lost, minimizing downtime and preserving essential files for future access.",
-    "dialog": "I heard you had a major data loss the other day. Did you have a **backup**?; Yes, luckily I managed to create a **backup** just before the system crashed, which saved a lot of important information. You should really consider making regular **backups** too!; Absolutely! I've learned my lesson; without a **backup**, I would have struggled to recover the lost data."
+    "synonyms": "copy, replica, safeguard",
+    "phrases": "Create a **backup** before major updates, Regular **backup** ensures data safety, The **backup** process is automated",
+    "sentence": "Before implementing any updates on the system, it is crucial to have a **backup** of all important files to prevent data loss. The **backup** can be stored on external drives or cloud storage for added security in case something goes wrong during the update process.",
+    "dialog": "Have you completed the **backup** for this project? I want to ensure we don't lose any documents.; Yes, I finished the **backup** yesterday and stored it in the cloud. It should be completely secure now.; That's great! I always worry about losing files unexpectedly, so a **backup** is essential.; Absolutely, having a reliable **backup** gives us peace of mind, especially when we are working on important tasks."
   }
 ]
