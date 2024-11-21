@@ -17,34 +17,43 @@ A Python application that processes a list of words and generates detailed vocab
 
 ---
 
-## Project Structure
-vocabulary-data-generator/
-├── README.md
-├── .env                  # Environment variables for OpenAI API keys
-├── .gitignore            # Files and folders to ignore in Git
-├── data/
-│   ├── list_of_words.txt # Input file with the list of words to process
-│   ├── vocabulary_data.json # Output file containing generated vocabulary data
-├── src/
-│   ├── __init__.py       # Package initialization
-│   ├── generator.py      # Core logic for processing words and generating data
-│   ├── models.py         # Pydantic models for data validation
-│   ├── utils.py          # Utility functions (e.g., OpenAI client initialization)
-├── main.py               # Entry point for the application
-
----
-
 ## Getting Started
 
 ### Prerequisites
 
-- **Python**: Version 3.8 or higher
 - **OpenAI API Key**: You’ll need an API key from OpenAI to use this application.
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vocabulary-data-generator.git
+   git clone https://github.com/grtrl/vocabulary-data-generator.git
    cd vocabulary-data-generator
 
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Create a .env file in the root directory with your OpenAI API key:
+   ```bash
+  OPENAI_API_KEY=your_openai_api_key
+
+5. Add your list of words to data/list_of_words.txt, one word per line.
+
+---
+
+### Usage
+1. Run the application:
+   ```bash
+   python main.py
+
+### Output
+ * Input File: data/list_of_words.txt
+ * Output File: data/vocabulary_data.json
+
+The output file will contain a structured JSON array of vocabulary entries.
+
+---
+
+### License
+This project is licensed under the MIT License.
