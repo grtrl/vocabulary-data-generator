@@ -17,6 +17,12 @@ A Python application that processes a list of words and generates detailed vocab
 
 ---
 
+![Vidéo sans titre ‐ Réalisée avec Clipchamp](https://github.com/user-attachments/assets/02cb0369-38cb-4faa-8e67-469924c8e4d8)
+
+---
+
+
+
 ## Getting Started
 
 ### Prerequisites
