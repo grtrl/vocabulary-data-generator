@@ -17,7 +17,7 @@ A Python application that processes a list of words and generates detailed vocab
 
 ---
 
-<img src="https://github.com/user-attachments/assets/cd3efbb5-6be8-497b-80a9-9ab6b5599b5f" width="100%"/>
+https://github.com/user-attachments/assets/7199003a-c1b0-4af6-b2a2-17a865819c2a
 
 ---
 
